@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="ENW table" max_length="40" name="x_58872_needit_enw_table" type="collection">
+        <element attributes="import_attribute_name=Accessibility,edge_encryption_enabled=true" label="Accessibility" max_length="40" name="u_accessibility" type="string"/>
+        <element attributes="import_attribute_name=Business Service,edge_encryption_enabled=true" label="Business Service" max_length="40" name="u_business_service" type="string"/>
+        <element attributes="import_attribute_name=Categorisation Tier 1,edge_encryption_enabled=true" label="Categorisation Tier 1" max_length="41" name="u_categorisation_tier_1" type="string"/>
+        <element attributes="import_attribute_name=Categorisation Tier 2,edge_encryption_enabled=true" label="Categorisation Tier 2" max_length="44" name="u_categorisation_tier_2" type="string"/>
+        <element attributes="import_attribute_name=Configuration Item,edge_encryption_enabled=true" label="Configuration Item" max_length="48" name="u_configuration_item" type="string"/>
+        <element attributes="import_attribute_name=Display link on Self Service Portal,edge_encryption_enabled=true" label="Display link on Self Service Portal" max_length="68" name="u_display_link_service_portal" type="string"/>
+        <element attributes="import_attribute_name=End-User Form,edge_encryption_enabled=true" label="End-User Form" max_length="40" name="u_end_user_form" type="string"/>
+        <element attributes="import_attribute_name=Faculty,edge_encryption_enabled=true" label="Faculty" max_length="40" name="u_faculty" type="string"/>
+        <element attributes="import_attribute_name=Guests,edge_encryption_enabled=true" label="Guests" max_length="40" name="u_guests" type="string"/>
+        <element attributes="import_attribute_name=Incident submission,edge_encryption_enabled=true" label="Incident submission" max_length="40" name="u_incident_submission" type="string"/>
+        <element attributes="import_attribute_name=Object type&#10;User-Staff-External,edge_encryption_enabled=true" label="Object type&#10;User-Staff-External" max_length="40" name="u_object_type__staff_external" type="string"/>
+        <element attributes="import_attribute_name=Object type&#10;User-Staff-Internal,edge_encryption_enabled=true" label="Object type&#10;User-Staff-Internal" max_length="40" name="u_object_type__staff_internal" type="string"/>
+        <element attributes="import_attribute_name=On-Demand / Continuous,edge_encryption_enabled=true" label="On-Demand / Continuous" max_length="40" name="u_on_demand___continuous" type="string"/>
+        <element attributes="import_attribute_name=Participants,edge_encryption_enabled=true" label="Participants" max_length="40" name="u_participants" type="string"/>
+        <element attributes="import_attribute_name=Request submission,edge_encryption_enabled=true" label="Request submission" max_length="40" name="u_request_submission" type="string"/>
+        <element attributes="import_attribute_name=Ticket Route,edge_encryption_enabled=true" label="Ticket Route" max_length="40" name="u_ticket_route" type="string"/>
+    </element>
+</database>
